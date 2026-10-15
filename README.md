@@ -1,5 +1,5 @@
 # Ecommerce-Sales-Dasborad
-![Uploading E-commerce Sales.jpeg…]()
+![E-commerce Sales Dashboard](E-commerce%20Sales.jpeg)
 
 # 🛒 E-Commerce Sales Dashboard
 
